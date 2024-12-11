@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Virtual environment
+env/
+venv/
+*.venv
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata and runtime files
+*.ipynb~ 
+*.json~
+
+# Python cache files
+*.pyc
+
+# Environments
+*.env
+*.env.*
+
+# Hidden system files (Mac/Linux)
+.DS_Store
+*.swp
+*.swo
+.fuse_hidden*
+
+# Output files
+*.out
+*.o
+*.exe
+*.so
+*.a
+
+# Data and results
+results/
+*.csv
+*.tsv
+*.db
+*.sqlite3
+*.h5
+*.hdf5
+*.pickle
+*.parquet
+*.feather
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Docker and VSCode related files
+docker-compose.override.yml
+.vscode/
+
+# Custom
+# Add any custom files/folders specific to your project that should be ignored
