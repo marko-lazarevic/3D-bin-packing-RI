@@ -1,0 +1,10 @@
+Bin: 30, 30, 30
+Box: 20, 20, 20
+Box: 10, 10, 10
+Box: 10, 10, 10
+Box: 5, 5, 5
+Box: 5, 5, 5
+Box: 30, 20, 20
+#####################
+#Expected Output:
+#Number of Bins: 2
