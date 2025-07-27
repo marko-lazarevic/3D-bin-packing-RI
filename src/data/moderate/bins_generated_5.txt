@@ -1,0 +1,13 @@
+Bin: 12, 11, 9
+Box: 4, 11, 6
+Box: 4, 11, 3
+Box: 8, 11, 9
+Box: 12, 11, 2
+Box: 4, 11, 9
+Box: 12, 11, 2
+Box: 4, 11, 9
+Box: 12, 11, 5
+Box: 4, 11, 9
+####################
+#Expected Output: 3
+#Number of Bins: 3.
