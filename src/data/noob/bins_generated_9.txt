@@ -1,0 +1,6 @@
+Bin: 2, 3, 2
+Box: 2, 3, 2
+Box: 2, 3, 2
+####################
+#Expected Output: 2
+#Number of Bins: 2.

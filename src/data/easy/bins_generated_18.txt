@@ -1,0 +1,8 @@
+Bin: 5, 7, 10
+Box: 5, 7, 4
+Box: 5, 5, 10
+Box: 5, 2, 10
+Box: 5, 7, 6
+####################
+#Expected Output: 2
+#Number of Bins: 2.
