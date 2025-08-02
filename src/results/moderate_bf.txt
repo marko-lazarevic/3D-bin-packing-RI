@@ -1,0 +1,123 @@
+Test: bins_generated_0.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_1.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_10.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_11.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_12.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_13.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_14.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_15.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_16.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_17.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_18.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_19.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_2.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_20.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_21.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_22.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_23.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_24.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_25.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_26.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_27.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_28.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_29.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_3.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_4.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_5.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_6.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_7.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_8.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+Test: bins_generated_9.txt
+Expected bins: 3, Actual bins: 3
+Result: PASS
+----------------------------------------
+PASSED 30 of 30 tests
+
+Execution time 180mins
