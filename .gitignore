@@ -40,7 +40,6 @@ venv/
 *.a
 
 # Data and results
-results/
 *.csv
 *.tsv
 *.db
