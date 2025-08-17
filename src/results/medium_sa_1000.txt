@@ -1,0 +1,121 @@
+Test: bins_generated_0.txt
+Expected bins: 14, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_1.txt
+Expected bins: 16, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_10.txt
+Expected bins: 14, Actual bins: 17
+Result: FAIL
+----------------------------------------
+Test: bins_generated_11.txt
+Expected bins: 8, Actual bins: 10
+Result: FAIL
+----------------------------------------
+Test: bins_generated_12.txt
+Expected bins: 18, Actual bins: 21
+Result: FAIL
+----------------------------------------
+Test: bins_generated_13.txt
+Expected bins: 15, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_14.txt
+Expected bins: 9, Actual bins: 12
+Result: FAIL
+----------------------------------------
+Test: bins_generated_15.txt
+Expected bins: 7, Actual bins: 10
+Result: FAIL
+----------------------------------------
+Test: bins_generated_16.txt
+Expected bins: 9, Actual bins: 12
+Result: FAIL
+----------------------------------------
+Test: bins_generated_17.txt
+Expected bins: 17, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_18.txt
+Expected bins: 13, Actual bins: 15
+Result: FAIL
+----------------------------------------
+Test: bins_generated_19.txt
+Expected bins: 19, Actual bins: 23
+Result: FAIL
+----------------------------------------
+Test: bins_generated_2.txt
+Expected bins: 18, Actual bins: 24
+Result: FAIL
+----------------------------------------
+Test: bins_generated_20.txt
+Expected bins: 7, Actual bins: 9
+Result: FAIL
+----------------------------------------
+Test: bins_generated_21.txt
+Expected bins: 20, Actual bins: 22
+Result: FAIL
+----------------------------------------
+Test: bins_generated_22.txt
+Expected bins: 6, Actual bins: 9
+Result: FAIL
+----------------------------------------
+Test: bins_generated_23.txt
+Expected bins: 16, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_24.txt
+Expected bins: 6, Actual bins: 9
+Result: FAIL
+----------------------------------------
+Test: bins_generated_25.txt
+Expected bins: 12, Actual bins: 15
+Result: FAIL
+----------------------------------------
+Test: bins_generated_26.txt
+Expected bins: 10, Actual bins: 13
+Result: FAIL
+----------------------------------------
+Test: bins_generated_27.txt
+Expected bins: 18, Actual bins: 23
+Result: FAIL
+----------------------------------------
+Test: bins_generated_28.txt
+Expected bins: 13, Actual bins: 15
+Result: FAIL
+----------------------------------------
+Test: bins_generated_29.txt
+Expected bins: 11, Actual bins: 13
+Result: FAIL
+----------------------------------------
+Test: bins_generated_3.txt
+Expected bins: 6, Actual bins: 8
+Result: FAIL
+----------------------------------------
+Test: bins_generated_4.txt
+Expected bins: 18, Actual bins: 22
+Result: FAIL
+----------------------------------------
+Test: bins_generated_5.txt
+Expected bins: 15, Actual bins: 17
+Result: FAIL
+----------------------------------------
+Test: bins_generated_6.txt
+Expected bins: 17, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_7.txt
+Expected bins: 15, Actual bins: 17
+Result: FAIL
+----------------------------------------
+Test: bins_generated_8.txt
+Expected bins: 15, Actual bins: 19
+Result: FAIL
+----------------------------------------
+Test: bins_generated_9.txt
+Expected bins: 14, Actual bins: 17
+Result: FAIL
+----------------------------------------
+PASSED 0 of 30 tests
